@@ -2,7 +2,7 @@
 
 <h2>How to install:</h2>
 <ul>
-<li>git clone </li>
+<li>https://github.com/ph-phoenix/autobrute.git </li>
 <li>pkg install python3</li>
 </ul>
 
